@@ -1,8 +1,7 @@
 # dio-laravel-api
-Projeto Laravel: construindo uma API do zero, na LiveCoding da DIO em 06/04
+Projeto Laravel: construindo uma API do zero
 
-1. Instalar o PHP (7.1 para esse projeto)
-2. Instalar o Composer
+1. Instalar o Composer
 
 Após clonar o projeto, rodar na pasta:
 ```
